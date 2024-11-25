@@ -1,0 +1,1 @@
+# Aadhaar_Card_Anomaly_Detection_Model
